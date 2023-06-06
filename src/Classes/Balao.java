@@ -3,5 +3,5 @@ package Classes;
 public class Balao {
 
     public int id;
-    public String reistro;
+    public String registro;
 }
