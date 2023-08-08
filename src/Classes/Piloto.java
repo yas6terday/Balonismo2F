@@ -26,9 +26,6 @@ public class Piloto {
         return registroAnac;
     }
 
-
-
-
     public String pilotando(){
         return "Pilotando";
     }
