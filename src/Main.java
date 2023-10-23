@@ -7,7 +7,7 @@ import Classes.Pessoa;
 public class Main {
     public static void main(String[] args) {
  Scanner tcd = new Scanner(System.in);
- int x =0;
+        int x =0;
         while  (x == 0){
 
             System.out.println("Bem vindo a agencia de balão, digite 1 se quiser adicionar um balão, digite 2 se quiser ver o balão já registrado, digite 3 se quiser registrar um piloto, digite 4 se quiser ver o piloto já regisrado, digite 5 se quiser registrar um passageiro, digite 6 se quiser ver o passsageiro já registrado");
